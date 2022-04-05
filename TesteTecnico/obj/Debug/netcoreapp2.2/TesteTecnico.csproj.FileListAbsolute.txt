@@ -1,0 +1,11 @@
+C:\Users\Oscar\source\repos\TesteTecnico\bin\Debug\netcoreapp2.2\TesteTecnico.deps.json
+C:\Users\Oscar\source\repos\TesteTecnico\bin\Debug\netcoreapp2.2\TesteTecnico.runtimeconfig.json
+C:\Users\Oscar\source\repos\TesteTecnico\bin\Debug\netcoreapp2.2\TesteTecnico.runtimeconfig.dev.json
+C:\Users\Oscar\source\repos\TesteTecnico\bin\Debug\netcoreapp2.2\TesteTecnico.dll
+C:\Users\Oscar\source\repos\TesteTecnico\bin\Debug\netcoreapp2.2\TesteTecnico.pdb
+C:\Users\Oscar\source\repos\TesteTecnico\obj\Debug\netcoreapp2.2\TesteTecnico.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\TesteTecnico\obj\Debug\netcoreapp2.2\TesteTecnico.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\TesteTecnico\obj\Debug\netcoreapp2.2\TesteTecnico.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\TesteTecnico\obj\Debug\netcoreapp2.2\TesteTecnico.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\TesteTecnico\obj\Debug\netcoreapp2.2\TesteTecnico.dll
+C:\Users\Oscar\source\repos\TesteTecnico\obj\Debug\netcoreapp2.2\TesteTecnico.pdb
